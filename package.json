@@ -1,0 +1,10 @@
+{
+  "name": "configwatch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "fs-extra": "^10.0.0"
+  }
+}
